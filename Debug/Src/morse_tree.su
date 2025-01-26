@@ -1,0 +1,3 @@
+../Src/morse_tree.c:11:7:morseTree_init	4	static
+../Src/morse_tree.c:17:5:goLeft	16	static
+../Src/morse_tree.c:29:5:goRight	16	static
